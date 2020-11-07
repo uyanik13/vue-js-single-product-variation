@@ -1,0 +1,37 @@
+{
+    "name": "single-product-variation",
+    "version": "1.0.0",
+    "description": "",
+    "private": true,
+    "scripts": {
+        "serve": "vue-cli-service serve",
+        "watch": "vue-cli-service build --mode development --watch",
+        "dev": "vue-cli-service --mode development build",
+        "build": "vue-cli-service build",
+        "lint": "vue-cli-service lint"
+    },
+    "dependencies": {
+        "material-icons": "^0.3.1",
+        "prismjs": "^1.22.0",
+        "vue": "^2.6.12",
+        "vue-feather-icons": "^5.1.0",
+        "vue-prism-component": "^1.2.0",
+        "vue-router": "^3.4.9",
+        "vue-star-rating": "^1.7.0",
+        "vuesax": "github:jd-0001/vuesax"
+    },
+    "devDependencies": {
+        "@vue/cli-service": "^3.7.0",
+        "@fullhuman/postcss-purgecss": "^1.2.0",
+        "tailwindcss": "^1.9.6",
+        "sass": "^1.29.0",
+        "sass-loader": "^8.0.0",
+        "vue-template-compiler": "^2.6.10"
+    },
+    "keywords": [
+        "single",
+        "product"
+    ],
+    "author": "ogur uyanik",
+    "license": "ISC"
+}
